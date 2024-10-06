@@ -8,7 +8,7 @@ O projeto foi resgatado e foi realizido algumas atualizações, criando novas fu
 ## 🚀 Tecnologias utilizadas
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,opencv,flask,mysql,postman"/>
+        <img src="https://skillicons.dev/icons?i=python,flask,opencv,mysql"/>
     </a>
 </div>
 
