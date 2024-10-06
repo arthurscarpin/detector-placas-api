@@ -44,10 +44,6 @@ README.md
 |   |   ├── guarda.png
 ```
 
-### Documentação:
-
-O arquivo **ROTAS.md** contém informações sobre os endpoints da API: [Readme das rotas da API]()
-
 ## 🛠️ Como executar?
 Para executar esse projeto é necessário seguir o passo a passo a seguir:
 
