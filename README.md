@@ -1,4 +1,4 @@
-# API para detecção de placas carros
+# 🚗 API para detecção de placas carros
 
 Essa API RESTful de detecão de placas de carros foi desenvolvida primeiramente para o meu trabalho de conclusão de curso em **Sistemas de Informações**. 
 
